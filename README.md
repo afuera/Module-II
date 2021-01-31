@@ -7,6 +7,6 @@ Line2:[Signaler Signature]
 
 Line3:[Thrown Exception]
 
-Line4:[Dummy Sink Method](if links to any parameter)
+Line4:[Dummy Sink Method](if flow exists, i.e., links to any parameter)
 
-Line5:[Dummy Source Method](if links to if-condition)
+Line5:[Dummy Source Method](if flow exists, i.e., links to if-condition)
