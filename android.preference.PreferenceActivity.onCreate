@@ -1,0 +1,3 @@
+<android.preference.PreferenceActivity: void onCreate(android.os.Bundle)>
+<android.preference.PreferenceActivity: void switchToHeaderInner(java.lang.String,android.os.Bundle,int)>
+java.lang.IllegalArgumentException

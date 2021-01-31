@@ -1,0 +1,3 @@
+<android.view.View: void sendAccessibilityEventUnchecked(android.view.accessibility.AccessibilityEvent)>
+<android.view.accessibility.AccessibilityRecord: void enforceNotSealed()>
+java.lang.IllegalStateException

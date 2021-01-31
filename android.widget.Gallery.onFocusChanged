@@ -1,0 +1,3 @@
+<android.widget.Gallery: void onFocusChanged(boolean,int,android.graphics.Rect)>
+<android.view.Choreographer: void removeCallbacks(int,java.lang.Runnable,java.lang.Object)>
+java.lang.IllegalArgumentException

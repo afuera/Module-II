@@ -1,0 +1,3 @@
+<android.renderscript.ScriptIntrinsicLUT: void forEach(android.renderscript.Allocation,android.renderscript.Allocation)>
+<android.renderscript.Allocation: void data1DChecks(int,int,int,int)>
+android.renderscript.RSIllegalArgumentException

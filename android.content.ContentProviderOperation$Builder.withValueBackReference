@@ -1,0 +1,3 @@
+<android.content.ContentProviderOperation$Builder: android.content.ContentProviderOperation$Builder withValueBackReference(java.lang.String,int)>
+<android.content.ContentProviderOperation$Builder: android.content.ContentProviderOperation$Builder withValueBackReference(java.lang.String,int)>
+java.lang.IllegalArgumentException

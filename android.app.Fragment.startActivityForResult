@@ -1,0 +1,3 @@
+<android.app.Fragment: void startActivityForResult(android.content.Intent,int)>
+<android.app.Fragment: void startActivityForResult(android.content.Intent,int,android.os.Bundle)>
+java.lang.IllegalStateException

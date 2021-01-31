@@ -1,0 +1,3 @@
+<android.renderscript.ScriptGroup$Builder: android.renderscript.ScriptGroup$Builder addConnection(android.renderscript.Type,android.renderscript.Script$KernelID,android.renderscript.Script$FieldID)>
+<android.renderscript.ScriptGroup$Builder: void validateCycle(android.renderscript.ScriptGroup$Node,android.renderscript.ScriptGroup$Node)>
+android.renderscript.RSInvalidStateException

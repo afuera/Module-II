@@ -1,0 +1,3 @@
+<android.widget.RemoteViewsListAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)>
+<android.widget.RemoteViews: void reapply(android.content.Context,android.view.View,android.widget.RemoteViews$OnClickHandler)>
+java.lang.RuntimeException

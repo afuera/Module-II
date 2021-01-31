@@ -1,0 +1,5 @@
+<android.widget.Spinner: void onInitializeAccessibilityEvent(android.view.accessibility.AccessibilityEvent)>
+<android.view.accessibility.AccessibilityRecord: void enforceNotSealed()>
+java.lang.IllegalStateException
+Sink: dummy_IfCondition
+Source: dummy_Para_0
