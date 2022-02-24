@@ -1,3 +1,0 @@
-<android.graphics.Bitmap: void setHeight(int)>
-<android.graphics.Bitmap: void checkRecycled(java.lang.String)>
-java.lang.IllegalStateException

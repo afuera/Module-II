@@ -1,3 +1,0 @@
-<android.gesture.GestureOverlayView: void draw(android.graphics.Canvas)>
-<android.graphics.Canvas: void setBitmap(android.graphics.Bitmap)>
-java.lang.RuntimeException

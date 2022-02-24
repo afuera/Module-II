@@ -1,3 +1,0 @@
-<android.renderscript.Mesh$TriangleMeshBuilder: android.renderscript.Mesh create(boolean)>
-<android.graphics.Canvas: void <init>(android.graphics.Bitmap)>
-java.lang.IllegalStateException

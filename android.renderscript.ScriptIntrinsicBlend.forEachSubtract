@@ -1,3 +1,0 @@
-<android.renderscript.ScriptIntrinsicBlend: void forEachSubtract(android.renderscript.Allocation,android.renderscript.Allocation)>
-<android.renderscript.ScriptIntrinsicBlend: void blend(int,android.renderscript.Allocation,android.renderscript.Allocation)>
-android.renderscript.RSIllegalArgumentException

@@ -1,3 +1,0 @@
-<android.app.ListFragment: void setListShown(boolean)>
-<android.app.ListFragment: void ensureList()>
-java.lang.RuntimeException

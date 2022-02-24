@@ -1,3 +1,0 @@
-<android.widget.ZoomButton: void <init>(android.content.Context)>
-<android.widget.ImageView: void setScaleType(android.widget.ImageView$ScaleType)>
-java.lang.NullPointerException

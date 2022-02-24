@@ -1,3 +1,0 @@
-<android.webkit.WebView: int findAll(java.lang.String)>
-<android.webkit.WebView: void checkThread()>
-java.lang.RuntimeException

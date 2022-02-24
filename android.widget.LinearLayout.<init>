@@ -1,5 +1,0 @@
-<android.widget.LinearLayout: void <init>(android.content.Context,android.util.AttributeSet,int)>
-<android.view.View: void setLayerType(int,android.graphics.Paint)>
-java.lang.IllegalArgumentException
-Sink: dummy_IfCondition
-Source: dummy_Para_0

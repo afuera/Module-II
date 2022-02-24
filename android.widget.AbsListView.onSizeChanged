@@ -1,3 +1,0 @@
-<android.widget.AbsListView: void onSizeChanged(int,int,int,int)>
-<android.view.View: void measure(int,int)>
-java.lang.IllegalStateException

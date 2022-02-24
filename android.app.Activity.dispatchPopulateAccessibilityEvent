@@ -1,3 +1,0 @@
-<android.app.Activity: boolean dispatchPopulateAccessibilityEvent(android.view.accessibility.AccessibilityEvent)>
-<android.view.accessibility.AccessibilityRecord: void enforceNotSealed()>
-java.lang.IllegalStateException

@@ -1,5 +1,0 @@
-<android.app.Activity: boolean startActivityIfNeeded(android.content.Intent,int,android.os.Bundle)>
-<android.app.Instrumentation: void checkStartActivityResult(int,java.lang.Object)>
-android.content.ActivityNotFoundException
-Sink: dummy_IfCondition
-Source: dummy_Para_0

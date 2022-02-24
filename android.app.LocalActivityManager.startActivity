@@ -1,3 +1,0 @@
-<android.app.LocalActivityManager: android.view.Window startActivity(java.lang.String,android.content.Intent)>
-<android.app.ActivityThread: void performStopActivityInner(android.app.ActivityThread$ActivityClientRecord,android.app.ActivityThread$StopInfo,boolean,boolean)>
-java.lang.RuntimeException

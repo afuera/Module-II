@@ -1,3 +1,0 @@
-<android.preference.PreferenceActivity$Header: void writeToParcel(android.os.Parcel,int)>
-<android.graphics.Bitmap: void writeToParcel(android.os.Parcel,int)>
-java.lang.RuntimeException

@@ -1,3 +1,0 @@
-<android.renderscript.Allocation: void copyFromUnchecked(int[])>
-<android.renderscript.Allocation: void validate3DRange(int,int,int,int,int,int)>
-android.renderscript.RSIllegalArgumentException
