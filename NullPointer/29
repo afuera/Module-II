@@ -1,9 +1,11 @@
 {
   "UE-API": "<android.security.KeyPairGeneratorSpec$Builder: android.security.KeyPairGeneratorSpec$Builder setSerialNumber(java.math.BigInteger)>",
   "Afuera_asserted_parameters": ["0"],
+  "rq3_explain": "serialNumber can't be null",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.NullPointerException",
   "Stack Trace": ["<android.security.KeyPairGeneratorSpec$Builder: android.security.KeyPairGeneratorSpec$Builder setSerialNumber(java.math.BigInteger)>"],
-  "Signaler": "<android.security.KeyPairGeneratorSpec$Builder: android.security.KeyPairGeneratorSpec$Builder setSerialNumber(java.math.BigInteger)>",
-  "rq3": ["0"],
-  "rq3_explain": "serialNumber can't be null"
+  "Signaler": "<android.security.KeyPairGeneratorSpec$Builder: android.security.KeyPairGeneratorSpec$Builder setSerialNumber(java.math.BigInteger)>"
 }

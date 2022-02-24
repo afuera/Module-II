@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.media.ImageReader: android.media.ImageReader newInstance(int,int,int,int,long)>",
   "Afuera_asserted_parameters": ["3"],
+  "rq3_explain": "mMaxImages < 1",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["3"],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": [
     "<android.media.ImageReader: void <init>(int,int,int,int,long)>",
     "<android.media.ImageReader: android.media.ImageReader newInstance(int,int,int,int,long)>"
   ],
-  "Signaler": "<android.media.ImageReader: void <init>(int,int,int,int,long)>",
-  "rq3": ["3"],
-  "rq3_explain": "mMaxImages < 1"
+  "Signaler": "<android.media.ImageReader: void <init>(int,int,int,int,long)>"
 }

@@ -1,8 +1,10 @@
 {
   "UE-API": "<android.filterfw.core.GLFrame: void generateMipMap()>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": ["<android.filterfw.core.GLFrame: void generateMipMap()>"],
-  "Signaler": "<android.filterfw.core.GLFrame: void generateMipMap()>",
-  "rq3": []
+  "Signaler": "<android.filterfw.core.GLFrame: void generateMipMap()>"
 }

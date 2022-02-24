@@ -1,15 +1,15 @@
 {
   "UE-API": "<android.hardware.camera2.CameraCharacteristics: void <init>(android.hardware.camera2.impl.CameraMetadataNative)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "mMetadataPtr == 0",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.OutOfMemoryError",
   "Stack Trace": [
     "<android.hardware.camera2.impl.CameraMetadataNative: void <init>()>",
     "<android.hardware.camera2.impl.CameraMetadataNative: android.hardware.camera2.impl.CameraMetadataNative move(android.hardware.camera2.impl.CameraMetadataNative)>",
     "<android.hardware.camera2.CameraCharacteristics: void <init>(android.hardware.camera2.impl.CameraMetadataNative)>"
   ],
-  "Signaler": "<android.hardware.camera2.impl.CameraMetadataNative: void <init>()>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "mMetadataPtr == 0"
+  "Signaler": "<android.hardware.camera2.impl.CameraMetadataNative: void <init>()>"
 }

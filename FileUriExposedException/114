@@ -1,11 +1,11 @@
 {
   "UE-API": "<android.os.StrictMode: void onFileUriExposed(android.net.Uri,java.lang.String)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "(sVmPolicy.mask & PENALTY_DEATH_ON_FILE_URI_EXPOSURE) != 0",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.os.FileUriExposedException",
   "Stack Trace": ["<android.os.StrictMode: void onFileUriExposed(android.net.Uri,java.lang.String)>"],
-  "Signaler": "<android.os.StrictMode: void onFileUriExposed(android.net.Uri,java.lang.String)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "(sVmPolicy.mask & PENALTY_DEATH_ON_FILE_URI_EXPOSURE) != 0"
+  "Signaler": "<android.os.StrictMode: void onFileUriExposed(android.net.Uri,java.lang.String)>"
 }

@@ -1,8 +1,14 @@
 {
   "UE-API": "<android.filterfw.core.ShaderProgram: void setClearColor(float,float,float)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [
+    "0",
+    "1",
+    "2"
+  ],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": ["<android.filterfw.core.ShaderProgram: void setClearColor(float,float,float)>"],
-  "Signaler": "<android.filterfw.core.ShaderProgram: void setClearColor(float,float,float)>",
-  "rq3": ["0","1","2"]
+  "Signaler": "<android.filterfw.core.ShaderProgram: void setClearColor(float,float,float)>"
 }

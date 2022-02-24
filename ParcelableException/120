@@ -1,13 +1,11 @@
 {
   "UE-API": "<android.provider.DocumentsProvider: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)>",
   "Afuera_asserted_parameters": [],
-  "Unchecked Exception": "android.os.ParcelableException",
-  "Stack Trace": [
-    "<android.provider.DocumentsProvider: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)>"
-  ],
-  "Signaler": "<android.provider.DocumentsProvider: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)>",
-  "rq1.5": "false",
   "rq0": "true",
+  "rq3_explain": "return value of callUnchecked",
+  "rq1.5": "false",
   "rq3": [],
-  "rq3_explain": "return value of callUnchecked"
+  "Unchecked Exception": "android.os.ParcelableException",
+  "Stack Trace": ["<android.provider.DocumentsProvider: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)>"],
+  "Signaler": "<android.provider.DocumentsProvider: android.os.Bundle call(java.lang.String,java.lang.String,android.os.Bundle)>"
 }

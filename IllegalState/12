@@ -1,14 +1,15 @@
 {
   "UE-API": "<android.mtp.MtpObjectInfo: int getThumbCompressedSize()>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "related to MtpObjectInfo.mThumbCompressedSize",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalStateException",
   "Stack Trace": [
     "<com.android.internal.util.Preconditions: void checkState(boolean,java.lang.String)>",
     "<com.android.internal.util.Preconditions: void checkState(boolean)>",
     "<android.mtp.MtpObjectInfo: int getThumbCompressedSize()>"
   ],
-  "Signaler": "<com.android.internal.util.Preconditions: void checkState(boolean,java.lang.String)>",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "related to MtpObjectInfo.mThumbCompressedSize"
+  "Signaler": "<com.android.internal.util.Preconditions: void checkState(boolean,java.lang.String)>"
 }

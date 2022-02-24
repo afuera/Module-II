@@ -1,13 +1,14 @@
 {
   "UE-API": "<android.app.admin.DevicePolicyManager: android.content.ComponentName getGlobalProxyAdmin()>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "related to mService of DevicePolicyManager",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
     "<android.app.admin.DevicePolicyManager: android.content.ComponentName getGlobalProxyAdmin()>"
   ],
-  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "related to mService of DevicePolicyManager"
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>"
 }

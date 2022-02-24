@@ -1,13 +1,11 @@
 {
   "UE-API": "<android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)>",
   "Afuera_asserted_parameters": [],
-  "Unchecked Exception": "android.database.sqlite.SQLiteException",
-  "Stack Trace": [
-    "<android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)>",
-  ],
-  "Signaler": "<android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)>",
-  "rq1.5": "false",
   "rq0": "true",
+  "rq3_explain": "throws when the database cannot be opened",
+  "rq1.5": "false",
   "rq3": [],
-  "rq3_explain": "throws when the database cannot be opened"
+  "Unchecked Exception": "android.database.sqlite.SQLiteException",
+  "Stack Trace": ["<android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)>"],
+  "Signaler": "<android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)>"
 }

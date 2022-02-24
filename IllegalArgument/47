@@ -1,13 +1,15 @@
 {
   "UE-API": "<android.widget.TextView: boolean onKeyPreIme(int,android.view.KeyEvent)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "event.getAction() != ACTION_DOWN",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": [
     "<android.view.KeyEvent$DispatcherState: void startTracking(android.view.KeyEvent,java.lang.Object)>",
     "<android.widget.TextView: boolean handleBackInTextActionModeIfNeeded(android.view.KeyEvent)>",
     "<android.widget.TextView: boolean onKeyPreIme(int,android.view.KeyEvent)>"
   ],
-  "Signaler": "<android.view.KeyEvent$DispatcherState: void startTracking(android.view.KeyEvent,java.lang.Object)>",
-  "rq3": ["0"],
-  "rq3_explain": "event.getAction() != ACTION_DOWN"
+  "Signaler": "<android.view.KeyEvent$DispatcherState: void startTracking(android.view.KeyEvent,java.lang.Object)>"
 }

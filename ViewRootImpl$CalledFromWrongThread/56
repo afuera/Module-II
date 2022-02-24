@@ -1,11 +1,13 @@
 {
   "UE-API": "<android.view.ViewRootImpl: void recomputeViewAttributes(android.view.View)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.view.ViewRootImpl$CalledFromWrongThreadException",
   "Stack Trace": [
     "<android.view.ViewRootImpl: void checkThread()>",
     "<android.view.ViewRootImpl: void recomputeViewAttributes(android.view.View)>"
   ],
-  "Signaler": "<android.view.ViewRootImpl: void checkThread()>",
-  "rq3": []
+  "Signaler": "<android.view.ViewRootImpl: void checkThread()>"
 }

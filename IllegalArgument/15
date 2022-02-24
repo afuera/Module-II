@@ -1,10 +1,11 @@
 {
   "UE-API": "<android.graphics.Bitmap: android.graphics.Bitmap copy(android.graphics.Bitmap$Config,boolean)>",
   "Afuera_asserted_parameters": ["1"],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["1"],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": ["<android.graphics.Bitmap: android.graphics.Bitmap copy(android.graphics.Bitmap$Config,boolean)>"],
   "Signaler": "<android.graphics.Bitmap: android.graphics.Bitmap copy(android.graphics.Bitmap$Config,boolean)>",
-  "rq0": "true",
-  "rq3": ["1"],
   "rq3_exaplain": "isMutable and also Config.HARDWARE, because Hardware bitmaps are always immutable"
 }

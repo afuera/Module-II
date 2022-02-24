@@ -1,6 +1,10 @@
 {
   "UE-API": "<android.gesture.GestureOverlayView: void <init>(android.content.Context,android.util.AttributeSet,int,int)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "false",
+  "rq3_explain": "locale == null",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": [
     "<android.graphics.Paint: void setTextLocales(android.os.LocaleList)>",
@@ -8,8 +12,5 @@
     "<android.graphics.Paint: void <init>()>",
     "<android.gesture.GestureOverlayView: void <init>(android.content.Context,android.util.AttributeSet,int,int)>"
   ],
-  "Signaler": "<android.graphics.Paint: void setTextLocales(android.os.LocaleList)>",
-  "rq0": "false",
-  "rq3_explain": "locale == null",
-  "rq3": []
+  "Signaler": "<android.graphics.Paint: void setTextLocales(android.os.LocaleList)>"
 }

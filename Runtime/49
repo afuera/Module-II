@@ -1,12 +1,17 @@
 {
   "UE-API": "<android.app.admin.DevicePolicyManager: int getPasswordQuality(android.content.ComponentName,int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "mService.getPasswordQuality(admin, userHandle, mParentInstance)",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [
+    "0",
+    "1"
+  ],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
     "<android.app.admin.DevicePolicyManager: int getPasswordQuality(android.content.ComponentName,int)>"
   ],
-  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
-  "rq3": ["0","1"],
-  "rq3_explain": "mService.getPasswordQuality(admin, userHandle, mParentInstance)"
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>"
 }

@@ -1,11 +1,11 @@
 {
   "UE-API": "<android.renderscript.Allocation: void setSurface(android.view.Surface)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "(mUsage & USAGE_IO_OUTPUT) == 0",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.renderscript.RSInvalidStateException",
   "Stack Trace": ["<android.renderscript.Allocation: void setSurface(android.view.Surface)>"],
-  "Signaler": "<android.renderscript.Allocation: void setSurface(android.view.Surface)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "(mUsage & USAGE_IO_OUTPUT) == 0"
+  "Signaler": "<android.renderscript.Allocation: void setSurface(android.view.Surface)>"
 }

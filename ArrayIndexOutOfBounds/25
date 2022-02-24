@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.graphics.drawable.DrawableContainer$DrawableContainerState: android.graphics.drawable.Drawable getChild(int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "line 916 of DrawableContainer, lookup table",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.ArrayIndexOutOfBoundsException",
   "Stack Trace": [
     "<android.util.SparseArray: void removeAt(int)>",
     "<android.graphics.drawable.DrawableContainer$DrawableContainerState: android.graphics.drawable.Drawable getChild(int)>"
   ],
-  "Signaler": "<android.util.SparseArray: void removeAt(int)>",
-  "rq3": ["0"],
-  "rq3_explain": "line 916 of DrawableContainer, lookup table"
+  "Signaler": "<android.util.SparseArray: void removeAt(int)>"
 }

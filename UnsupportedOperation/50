@@ -1,6 +1,9 @@
 {
   "UE-API": "<android.animation.AnimatorSet$Builder: android.animation.AnimatorSet$Builder 'with'(android.animation.Animator)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "false",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.UnsupportedOperationException",
   "Stack Trace": [
     "<android.util.ArrayMap: void allocArrays(int)>",
@@ -9,7 +12,5 @@
     "<android.animation.AnimatorSet: android.animation.AnimatorSet$Node access$500(android.animation.AnimatorSet,android.animation.Animator)>",
     "<android.animation.AnimatorSet$Builder: android.animation.AnimatorSet$Builder 'with'(android.animation.Animator)>"
   ],
-  "Signaler": "<android.util.ArrayMap: void allocArrays(int)>",
-  "rq0": "false",
-  "rq3": []
+  "Signaler": "<android.util.ArrayMap: void allocArrays(int)>"
 }

@@ -1,9 +1,11 @@
 {
   "UE-API": "<android.security.SystemKeyStore: void deleteKey(java.lang.String)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "File keyFile = getKeyFile(keyName)",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": ["<android.security.SystemKeyStore: void deleteKey(java.lang.String)>"],
-  "Signaler": "<android.security.SystemKeyStore: void deleteKey(java.lang.String)>",
-  "rq3": ["0"],
-  "rq3_explain": "File keyFile = getKeyFile(keyName)"
+  "Signaler": "<android.security.SystemKeyStore: void deleteKey(java.lang.String)>"
 }

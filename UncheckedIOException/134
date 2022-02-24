@@ -1,12 +1,10 @@
 {
   "UE-API": "<android.os.ParcelFileDescriptor: android.os.ParcelFileDescriptor fromDatagramSocket(java.net.DatagramSocket)>",
   "Afuera_asserted_parameters": [],
-  "Unchecked Exception": "java.io.UncheckedIOException",
-  "Stack Trace": [
-    "<android.os.ParcelFileDescriptor: android.os.ParcelFileDescriptor fromDatagramSocket(java.net.DatagramSocket)>"
-  ],
-  "Signaler": "<android.os.ParcelFileDescriptor: android.os.ParcelFileDescriptor fromDatagramSocket(java.net.DatagramSocket)>",
-  "rq1.5": "false",
   "rq0": "true",
-  "rq3": []
+  "rq1.5": "false",
+  "rq3": [],
+  "Unchecked Exception": "java.io.UncheckedIOException",
+  "Stack Trace": ["<android.os.ParcelFileDescriptor: android.os.ParcelFileDescriptor fromDatagramSocket(java.net.DatagramSocket)>"],
+  "Signaler": "<android.os.ParcelFileDescriptor: android.os.ParcelFileDescriptor fromDatagramSocket(java.net.DatagramSocket)>"
 }

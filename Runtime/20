@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.net.TrafficStats: long getMobileTcpRxPackets()>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "check current instanceof",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
     "<android.net.TrafficStats: long getMobileTcpRxPackets()>"
   ],
-  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
-  "rq3": [],
-  "rq3_explain": "check current instanceof"
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>"
 }

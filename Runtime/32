@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.app.admin.DevicePolicyManager: int getPasswordMinimumLength(android.content.ComponentName,int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "checking RemoteException instanceof",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
     "<android.app.admin.DevicePolicyManager: int getPasswordMinimumLength(android.content.ComponentName,int)>"
   ],
-  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
-  "rq3": [],
-  "rq3_explain": "checking RemoteException instanceof"
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>"
 }

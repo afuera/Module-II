@@ -1,11 +1,14 @@
 {
   "UE-API": "<android.renderscript.Script: android.renderscript.Script$KernelID createKernelID(int,int,android.renderscript.Element,android.renderscript.Element)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "long id = mRS.nScriptKernelIDCreate(getID(mRS), slot, sig)",
+  "rq1.5": "false",
+  "rq3": [
+    "0",
+    "1"
+  ],
   "Unchecked Exception": "android.renderscript.RSDriverException",
   "Stack Trace": ["<android.renderscript.Script: android.renderscript.Script$KernelID createKernelID(int,int,android.renderscript.Element,android.renderscript.Element)>"],
-  "Signaler": "<android.renderscript.Script: android.renderscript.Script$KernelID createKernelID(int,int,android.renderscript.Element,android.renderscript.Element)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": ["0","1"],
-  "rq3_explain": "long id = mRS.nScriptKernelIDCreate(getID(mRS), slot, sig)"
+  "Signaler": "<android.renderscript.Script: android.renderscript.Script$KernelID createKernelID(int,int,android.renderscript.Element,android.renderscript.Element)>"
 }

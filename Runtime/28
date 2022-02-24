@@ -1,9 +1,11 @@
 {
   "UE-API": "<android.filterfw.core.FrameFormat: boolean hasMetaKey(java.lang.String,java.lang.Class)>",
   "Afuera_asserted_parameters": ["1"],
+  "rq3_explain": "expectedClass.isAssignablFrom",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["1"],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": ["<android.filterfw.core.FrameFormat: boolean hasMetaKey(java.lang.String,java.lang.Class)>"],
-  "Signaler": "<android.filterfw.core.FrameFormat: boolean hasMetaKey(java.lang.String,java.lang.Class)>",
-  "rq3": ["1"],
-  "rq3_explain": "expectedClass.isAssignablFrom"
+  "Signaler": "<android.filterfw.core.FrameFormat: boolean hasMetaKey(java.lang.String,java.lang.Class)>"
 }

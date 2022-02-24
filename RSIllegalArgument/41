@@ -1,8 +1,10 @@
 {
   "UE-API": "<android.renderscript.Type$Builder: android.renderscript.Type$Builder setZ(int)>",
   "Afuera_asserted_parameters": ["0"],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "android.renderscript.RSIllegalArgumentException",
   "Stack Trace": ["<android.renderscript.Type$Builder: android.renderscript.Type$Builder setZ(int)>"],
-  "Signaler": "<android.renderscript.Type$Builder: android.renderscript.Type$Builder setZ(int)>",
-  "rq3": ["0"]
+  "Signaler": "<android.renderscript.Type$Builder: android.renderscript.Type$Builder setZ(int)>"
 }

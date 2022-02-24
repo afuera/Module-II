@@ -1,8 +1,10 @@
 {
   "UE-API": "<android.renderscript.Sampler$Builder: void setWrapS(android.renderscript.Sampler$Value)>",
   "Afuera_asserted_parameters": ["0"],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": ["<android.renderscript.Sampler$Builder: void setWrapS(android.renderscript.Sampler$Value)>"],
-  "Signaler": "<android.renderscript.Sampler$Builder: void setWrapS(android.renderscript.Sampler$Value)>",
-  "rq3": ["0"]
+  "Signaler": "<android.renderscript.Sampler$Builder: void setWrapS(android.renderscript.Sampler$Value)>"
 }

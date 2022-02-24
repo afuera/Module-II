@@ -1,6 +1,9 @@
 {
   "UE-API": "<android.app.DownloadManager: java.lang.Long getMaxBytesOverMobile(android.content.Context)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.SecurityException",
   "Stack Trace": [
     "<android.provider.Settings$Secure: java.lang.String getStringForUser(android.content.ContentResolver,java.lang.String,int)>",
@@ -10,7 +13,5 @@
     "<android.app.DownloadManager: java.lang.Long getMaxBytesOverMobile(android.content.Context)>"
   ],
   "Signaler": "<android.provider.Settings$Secure: java.lang.String getStringForUser(android.content.ContentResolver,java.lang.String,int)>",
-  "rq3_exaplain": "related to local variable application = ActivityThread.currentApplication()",
-  "rq0": "true",
-  "rq3": []
+  "rq3_exaplain": "related to local variable application = ActivityThread.currentApplication()"
 }

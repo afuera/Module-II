@@ -1,13 +1,14 @@
 {
   "UE-API": "<android.bluetooth.BluetoothHeadset: boolean setPriority(android.bluetooth.BluetoothDevice,int)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "false",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.NullPointerException",
   "Stack Trace": [
     "<com.android.internal.util.FastPrintWriter: void <init>(java.io.Writer,boolean,int)>",
     "<android.util.Log: java.lang.String getStackTraceString(java.lang.Throwable)>",
     "<android.bluetooth.BluetoothHeadset: boolean setPriority(android.bluetooth.BluetoothDevice,int)>"
   ],
-  "Signaler": "<com.android.internal.util.FastPrintWriter: void <init>(java.io.Writer,boolean,int)>",
-  "rq0": "false",
-  "rq3": []
+  "Signaler": "<com.android.internal.util.FastPrintWriter: void <init>(java.io.Writer,boolean,int)>"
 }

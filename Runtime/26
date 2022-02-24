@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.widget.RemoteViews: void setInt(int,java.lang.String,int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "RemoteViews.mLandscape and .mPortrait, line 2246",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.widget.RemoteViews: void addAction(android.widget.RemoteViews$Action)>",
     "<android.widget.RemoteViews: void setInt(int,java.lang.String,int)>"
   ],
-  "Signaler": "<android.widget.RemoteViews: void addAction(android.widget.RemoteViews$Action)>",
-  "rq3": [],
-  "rq3_explain": "RemoteViews.mLandscape and .mPortrait, line 2246"
+  "Signaler": "<android.widget.RemoteViews: void addAction(android.widget.RemoteViews$Action)>"
 }

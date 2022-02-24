@@ -1,13 +1,13 @@
 {
   "UE-API": "<android.database.BulkCursorToCursorAdaptor: java.lang.String[] getColumnNames()>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.database.StaleDataException",
   "Stack Trace": [
     "<android.database.BulkCursorToCursorAdaptor: void throwIfCursorIsClosed()>",
     "<android.database.BulkCursorToCursorAdaptor: java.lang.String[] getColumnNames()>"
   ],
-  "Signaler": "<android.database.BulkCursorToCursorAdaptor: void throwIfCursorIsClosed()>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": []
+  "Signaler": "<android.database.BulkCursorToCursorAdaptor: void throwIfCursorIsClosed()>"
 }

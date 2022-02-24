@@ -1,6 +1,10 @@
 {
   "UE-API": "<android.text.Layout: float getLineRight(int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "end",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IndexOutOfBoundsException",
   "Stack Trace": [
     "<android.text.TextLine: float measure(int,boolean,android.graphics.Paint$FontMetricsInt)>",
@@ -9,7 +13,5 @@
     "<android.text.Layout: float getLineMax(int)>",
     "<android.text.Layout: float getLineRight(int)>"
   ],
-  "Signaler": "<android.text.TextLine: float measure(int,boolean,android.graphics.Paint$FontMetricsInt)>",
-  "rq3": [],
-  "rq3_explain": "end"
+  "Signaler": "<android.text.TextLine: float measure(int,boolean,android.graphics.Paint$FontMetricsInt)>"
 }

@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.print.PrintAttributes$MediaSize: void <init>(java.lang.String,java.lang.String,java.lang.String,int,int,int)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "TextUtils",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": [
     "<com.android.internal.util.Preconditions: void checkArgument(boolean,java.lang.Object)>",
     "<android.print.PrintAttributes$MediaSize: void <init>(java.lang.String,java.lang.String,java.lang.String,int,int,int)>"
   ],
-  "Signaler": "<com.android.internal.util.Preconditions: void checkArgument(boolean,java.lang.Object)>",
-  "rq3": [],
-  "rq3_explain": "TextUtils"
+  "Signaler": "<com.android.internal.util.Preconditions: void checkArgument(boolean,java.lang.Object)>"
 }

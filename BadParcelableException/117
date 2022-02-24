@@ -1,11 +1,11 @@
 {
   "UE-API": "<android.accounts.Account: void <init>(android.os.Parcel)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "TextUtils.isEmpty",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.os.BadParcelableException",
   "Stack Trace": ["<android.accounts.Account: void <init>(android.os.Parcel)>"],
-  "Signaler": "<android.accounts.Account: void <init>(android.os.Parcel)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "TextUtils.isEmpty"
+  "Signaler": "<android.accounts.Account: void <init>(android.os.Parcel)>"
 }

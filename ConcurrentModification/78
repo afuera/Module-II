@@ -1,6 +1,10 @@
 {
   "UE-API": "<android.provider.BrowserContract$SyncState: android.content.ContentProviderOperation newSetOperation(android.accounts.Account,byte[])>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "CONCURRENT_MODIFICATION_EXCEPTIONS && osize != mSize",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.util.ConcurrentModificationException",
   "Stack Trace": [
     "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
@@ -9,7 +13,5 @@
     "<android.provider.SyncStateContract$Helpers: android.content.ContentProviderOperation newSetOperation(android.net.Uri,android.accounts.Account,byte[])>",
     "<android.provider.BrowserContract$SyncState: android.content.ContentProviderOperation newSetOperation(android.accounts.Account,byte[])>"
   ],
-  "Signaler": "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
-  "rq3": [],
-  "rq3_explain": "CONCURRENT_MODIFICATION_EXCEPTIONS && osize != mSize"
+  "Signaler": "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>"
 }

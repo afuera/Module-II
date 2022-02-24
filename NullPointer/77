@@ -1,11 +1,13 @@
 {
   "UE-API": "<android.os.storage.StorageManager: boolean mountObb(java.lang.String,java.lang.String,android.os.storage.OnObbStateChangeListener)>",
   "Afuera_asserted_parameters": ["2"],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["2"],
   "Unchecked Exception": "java.lang.NullPointerException",
   "Stack Trace": [
     "<com.android.internal.util.Preconditions: java.lang.Object checkNotNull(java.lang.Object,java.lang.Object)>",
     "<android.os.storage.StorageManager: boolean mountObb(java.lang.String,java.lang.String,android.os.storage.OnObbStateChangeListener)>"
   ],
-  "Signaler": "<com.android.internal.util.Preconditions: java.lang.Object checkNotNull(java.lang.Object,java.lang.Object)>",
-  "rq3": ["2"]
+  "Signaler": "<com.android.internal.util.Preconditions: java.lang.Object checkNotNull(java.lang.Object,java.lang.Object)>"
 }

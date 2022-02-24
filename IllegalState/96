@@ -1,9 +1,11 @@
 {
   "UE-API": "<android.widget.HorizontalScrollView: void addView(android.view.View,int,android.view.ViewGroup$LayoutParams)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "getChildCount() > 0",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalStateException",
   "Stack Trace": ["<android.widget.HorizontalScrollView: void addView(android.view.View,int,android.view.ViewGroup$LayoutParams)>"],
-  "Signaler": "<android.widget.HorizontalScrollView: void addView(android.view.View,int,android.view.ViewGroup$LayoutParams)>",
-  "rq3": [],
-  "rq3_explain": "getChildCount() > 0"
+  "Signaler": "<android.widget.HorizontalScrollView: void addView(android.view.View,int,android.view.ViewGroup$LayoutParams)>"
 }

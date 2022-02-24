@@ -1,9 +1,17 @@
 {
   "UE-API": "<android.text.PackedIntVector: void deleteAt(int,int)>",
-  "Afuera_asserted_parameters": ["0","1"],
+  "Afuera_asserted_parameters": [
+    "0",
+    "1"
+  ],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [
+    "0",
+    "1"
+  ],
   "Unchecked Exception": "java.lang.IndexOutOfBoundsException",
   "Stack Trace": ["<android.text.PackedIntVector: void deleteAt(int,int)>"],
   "Signaler": "<android.text.PackedIntVector: void deleteAt(int,int)>",
-  "rq3": ["0","1"],
   "rq3_exaplain": "checking index"
 }

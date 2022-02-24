@@ -1,11 +1,13 @@
 {
   "UE-API": "<android.filterfw.format.ObjectFormat: android.filterfw.core.MutableFrameFormat fromClass(java.lang.Class,int,int)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": ["0"],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.filterfw.format.ObjectFormat: int bytesPerSampleForClass(java.lang.Class,int)>",
     "<android.filterfw.format.ObjectFormat: android.filterfw.core.MutableFrameFormat fromClass(java.lang.Class,int,int)>"
   ],
-  "Signaler": "<android.filterfw.format.ObjectFormat: android.filterfw.core.MutableFrameFormat fromClass(java.lang.Class,int,int)>",
-  "rq3": ["0"]
+  "Signaler": "<android.filterfw.format.ObjectFormat: android.filterfw.core.MutableFrameFormat fromClass(java.lang.Class,int,int)>"
 }

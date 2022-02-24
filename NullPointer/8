@@ -1,14 +1,15 @@
 {
   "UE-API": "<android.printservice.PrintServiceInfo: android.printservice.PrintServiceInfo create(android.content.Context,android.content.pm.ResolveInfo)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "should be relevant to resolveInfo.serviceInfo.packageName and resolveInfo.serviceInfo.name",
+  "rq1.5": "false",
+  "rq3": ["1"],
   "Unchecked Exception": "java.lang.NullPointerException",
   "Stack Trace": [
     "<android.content.ComponentName: void <init>(java.lang.String,java.lang.String)>",
     "<android.printservice.PrintServiceInfo: void <init>(android.content.pm.ResolveInfo,java.lang.String,java.lang.String,java.lang.String)>",
     "<android.printservice.PrintServiceInfo: android.printservice.PrintServiceInfo create(android.content.Context,android.content.pm.ResolveInfo)>"
   ],
-  "Signaler": "<android.content.ComponentName: void <init>(java.lang.String,java.lang.String)>",
-  "rq0": "true",
-  "rq3": ["1"],
-  "rq3_explain": "should be relevant to resolveInfo.serviceInfo.packageName and resolveInfo.serviceInfo.name"
+  "Signaler": "<android.content.ComponentName: void <init>(java.lang.String,java.lang.String)>"
 }

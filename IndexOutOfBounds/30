@@ -1,13 +1,21 @@
 {
   "UE-API": "<android.text.SpannableStringBuilder: int getTextRunCursor(int,int,boolean,int,int,android.graphics.Paint)>",
-  "Afuera_asserted_parameters": ["0","1"],
+  "Afuera_asserted_parameters": [
+    "0",
+    "1"
+  ],
+  "rq3_explain": "contextStart and contextEnd are bot relevant",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [
+    "0",
+    "1"
+  ],
   "Unchecked Exception": "java.lang.IndexOutOfBoundsException",
   "Stack Trace": [
     "<android.text.SpannableStringBuilder: void checkRange(java.lang.String,int,int)>",
     "<android.text.SpannableStringBuilder: void getChars(int,int,char[],int)>",
     "<android.text.SpannableStringBuilder: int getTextRunCursor(int,int,boolean,int,int,android.graphics.Paint)>"
   ],
-  "Signaler": "<android.text.SpannableStringBuilder: void checkRange(java.lang.String,int,int)>",
-  "rq3": ["0","1"],
-  "rq3_explain": "contextStart and contextEnd are bot relevant"
+  "Signaler": "<android.text.SpannableStringBuilder: void checkRange(java.lang.String,int,int)>"
 }

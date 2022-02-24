@@ -1,15 +1,15 @@
 {
   "UE-API": "<android.transition.Recolor: void <init>(android.content.Context,android.util.AttributeSet)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "token",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.view.InflateException",
   "Stack Trace": [
     "<android.transition.Transition: int[] parseMatchOrder(java.lang.String)>",
     "<android.transition.Transition: void <init>(android.content.Context,android.util.AttributeSet)>",
     "<android.transition.Recolor: void <init>(android.content.Context,android.util.AttributeSet)>"
   ],
-  "Signaler": "<android.transition.Transition: int[] parseMatchOrder(java.lang.String)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "token"
+  "Signaler": "<android.transition.Transition: int[] parseMatchOrder(java.lang.String)>"
 }

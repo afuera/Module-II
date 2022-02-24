@@ -1,6 +1,10 @@
 {
   "UE-API": "<android.text.method.TextKeyListener: boolean onKeyUp(android.view.View,android.text.Editable,int,android.view.KeyEvent)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "deviceID",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "android.view.KeyCharacterMap$UnavailableException",
   "Stack Trace": [
     "<android.view.KeyCharacterMap: android.view.KeyCharacterMap load(int)>",
@@ -8,9 +12,5 @@
     "<android.text.method.TextKeyListener: android.text.method.KeyListener getKeyListener(android.view.KeyEvent)>",
     "<android.text.method.TextKeyListener: boolean onKeyUp(android.view.View,android.text.Editable,int,android.view.KeyEvent)>"
   ],
-  "Signaler": "<android.view.KeyCharacterMap: android.view.KeyCharacterMap load(int)>",
-  "rq1.5": "false",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "deviceID"
+  "Signaler": "<android.view.KeyCharacterMap: android.view.KeyCharacterMap load(int)>"
 }

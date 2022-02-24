@@ -1,9 +1,11 @@
 {
   "UE-API": "<android.content.res.TypedArray: float getFraction(int,int,int,float)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "mNativeHandle == 0",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.UnsupportedOperationException",
   "Stack Trace": ["<android.content.res.TypedArray: float getFraction(int,int,int,float)>"],
-  "Signaler": "<android.content.res.TypedArray: float getFraction(int,int,int,float)>",
-  "rq3": [],
-  "rq3_explain": "mNativeHandle == 0"
+  "Signaler": "<android.content.res.TypedArray: float getFraction(int,int,int,float)>"
 }

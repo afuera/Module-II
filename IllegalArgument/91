@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.media.Ringtone: void setUri(android.net.Uri,android.media.VolumeShaper$Configuration)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "attributes == null",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalArgumentException",
   "Stack Trace": [
     "<android.media.MediaPlayer: void setAudioAttributes(android.media.AudioAttributes)>",
     "<android.media.Ringtone: void setUri(android.net.Uri,android.media.VolumeShaper$Configuration)>"
   ],
-  "Signaler": "<android.media.MediaPlayer: void setAudioAttributes(android.media.AudioAttributes)>",
-  "rq3": [],
-  "rq3_explain": "attributes == null"
+  "Signaler": "<android.media.MediaPlayer: void setAudioAttributes(android.media.AudioAttributes)>"
 }

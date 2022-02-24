@@ -1,13 +1,14 @@
 {
   "UE-API": "<android.view.accessibility.AccessibilityNodeInfo: void setParent(android.view.View,int)>",
   "Afuera_asserted_parameters": [],
+  "rq0": "true",
+  "rq3_explain": "exception relevant to isSealed() only",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.IllegalStateException",
   "Stack Trace": [
     "<android.view.accessibility.AccessibilityNodeInfo: void enforceNotSealed()>",
     "<android.view.accessibility.AccessibilityNodeInfo: void setParent(android.view.View,int)>"
   ],
-  "Signaler": "<android.view.accessibility.AccessibilityNodeInfo: void enforceNotSealed()>",
-  "rq0": "true",
-  "rq3": [],
-  "rq3_explain": "exception relevant to isSealed() only"
+  "Signaler": "<android.view.accessibility.AccessibilityNodeInfo: void enforceNotSealed()>"
 }

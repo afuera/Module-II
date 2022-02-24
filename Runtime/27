@@ -1,12 +1,14 @@
 {
   "UE-API": "<android.app.AppOpsManager: java.util.List getOpsForPackage(int,java.lang.String,int[])>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "RemoteException instanceof DeadObjectException",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.RuntimeException",
   "Stack Trace": [
     "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
     "<android.app.AppOpsManager: java.util.List getOpsForPackage(int,java.lang.String,int[])>"
   ],
-  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
-  "rq3": [],
-  "rq3_explain": "RemoteException instanceof DeadObjectException"
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>"
 }

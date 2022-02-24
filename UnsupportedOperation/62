@@ -1,6 +1,10 @@
 {
   "UE-API": "<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.io.Serializable)>",
   "Afuera_asserted_parameters": [],
+  "rq3_explain": "mHashes == EMPTY_IMMUTABLE_INTS",
+  "rq0": "true",
+  "rq1.5": "false",
+  "rq3": [],
   "Unchecked Exception": "java.lang.UnsupportedOperationException",
   "Stack Trace": [
     "<android.util.ArrayMap: void allocArrays(int)>",
@@ -9,7 +13,5 @@
     "<android.os.Bundle: void putSerializable(java.lang.String,java.io.Serializable)>",
     "<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.io.Serializable)>"
   ],
-  "Signaler": "<android.util.ArrayMap: void allocArrays(int)>",
-  "rq3": [],
-  "rq3_explain": "mHashes == EMPTY_IMMUTABLE_INTS"
+  "Signaler": "<android.util.ArrayMap: void allocArrays(int)>"
 }
