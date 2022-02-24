@@ -1,12 +1,20 @@
 # Module-II
 For each file:
 
-Line1:[API Signature]
+"UE-API":[API Signature]
 
-Line2:[Signaler Signature]
+"Signaler":[Signaler Signature]
 
-Line3:[Thrown Exception]
+"Unchecked Exception":[Thrown Exception]
 
-Line4:[Dummy Sink Method](if flow exists, i.e., links to any parameter)
+"Stack Trace": [Stack Trace]
 
-Line5:[Dummy Source Method](if flow exists, i.e., links to if-condition)
+"RQ0": [True if stack trace should exist, false otherwise]
+
+"RQ1.5": [True if API reference documents the unchecked exception, false otherwise]
+
+"RQ3": [True list of parameters that are related to the unchecked exception]
+
+"Afuera_asserted_parameters": [Afuera outcomes]
+
+"rq3_exaplain": [What really caused the unchecked exception]
