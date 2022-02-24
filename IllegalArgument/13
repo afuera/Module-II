@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.widget.GridLayout: void onSetLayoutParams(android.view.View,android.view.ViewGroup$LayoutParams)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalArgumentException",
+  "Stack Trace": [
+    "<android.widget.GridLayout: void handleInvalidParams(java.lang.String)>",
+    "<android.widget.GridLayout: void onSetLayoutParams(android.view.View,android.view.ViewGroup$LayoutParams)>"
+  ],
+  "Signaler": "<android.widget.GridLayout: void onSetLayoutParams(android.view.View,android.view.ViewGroup$LayoutParams)>",
+  "rq0": "true",
+  "rq3": ["0"],
+  "rq3_explain": "line 880 of GridLayout, FlowDroid can't taint instanceof operand"
+}

@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.nfc.cardemulation.ApduServiceInfo: java.lang.String toString()>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.NullPointerException",
+  "Stack Trace": [
+    "<android.content.ComponentName: void <init>(java.lang.String,java.lang.String)>",
+    "<android.nfc.cardemulation.ApduServiceInfo: android.content.ComponentName getComponent()>",
+    "<android.nfc.cardemulation.ApduServiceInfo: java.lang.String toString()>"
+  ],
+  "Signaler": "<android.content.ComponentName: void <init>(java.lang.String,java.lang.String)>",
+  "rq3": [],
+  "rq3_explain": "zero parameter"
+}

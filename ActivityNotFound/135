@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.app.Activity: boolean startActivityIfNeeded(android.content.Intent,int,android.os.Bundle)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.content.ActivityNotFoundException",
+  "Stack Trace": [
+    "<android.app.Instrumentation: void checkStartActivityResult(int,java.lang.Object)>",
+    "<android.app.Activity: boolean startActivityIfNeeded(android.content.Intent,int,android.os.Bundle)>"
+  ],
+  "Signaler": "<android.app.Instrumentation: void checkStartActivityResult(int,java.lang.Object)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": ["0"],
+  "rq3_explain": "is related to intent"
+}

@@ -1,0 +1,8 @@
+{
+  "UE-API": "<android.util.SparseBooleanArray: int keyAt(int)>",
+  "Afuera_asserted_parameters": ["0"],
+  "Unchecked Exception": "java.lang.ArrayIndexOutOfBoundsException",
+  "Stack Trace": ["<android.util.SparseBooleanArray: int keyAt(int)>"],
+  "Signaler": "<android.util.SparseBooleanArray: int keyAt(int)>",
+  "rq3": ["0"]
+}

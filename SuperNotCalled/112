@@ -1,0 +1,16 @@
+{
+  "UE-API": "<android.app.MediaRouteButton: void setRouteTypes(int)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.util.SuperNotCalledException",
+  "Stack Trace": [
+    "<android.view.View: void dispatchCancelPendingInputEvents()>",
+    "<android.view.View: void cancelPendingInputEvents()>",
+    "<android.view.View: void setEnabled(boolean)>",
+    "<android.app.MediaRouteButton: void refreshRoute()>",
+    "<android.app.MediaRouteButton: void setRouteTypes(int)>"
+  ],
+  "Signaler": "<android.view.View: void dispatchCancelPendingInputEvents()>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": []
+}

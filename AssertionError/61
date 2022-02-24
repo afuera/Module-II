@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.widget.QuickContactBadge: void assignContactFromEmail(java.lang.String,boolean,android.os.Bundle)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.AssertionError",
+  "Stack Trace": [
+    "<android.net.Uri: java.lang.String encode(java.lang.String,java.lang.String)>",
+    "<android.net.Uri: java.lang.String encode(java.lang.String)>",
+    "<android.widget.QuickContactBadge: void assignContactFromEmail(java.lang.String,boolean,android.os.Bundle)>"
+  ],
+  "Signaler": "<android.widget.QuickContactBadge: void assignContactFromEmail(java.lang.String,boolean,android.os.Bundle)>",
+  "rq3": [],
+  "rq3_explain": "catch then throw"
+}

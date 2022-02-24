@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.database.sqlite.SQLiteFullException",
+  "Stack Trace": [
+    "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel,java.lang.String,int)>",
+    "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel)>"
+  ],
+  "Signaler": "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel,java.lang.String,int)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": ["0"],
+  "rq3_explain": "readExceptionCode"
+}

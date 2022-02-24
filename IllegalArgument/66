@@ -1,0 +1,15 @@
+{
+  "UE-API": "<android.widget.Switch: void setSwitchTextAppearance(android.content.Context,int)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalArgumentException",
+  "Stack Trace": [
+    "<android.os.LocaleList: void <init>(java.util.Locale[])>",
+    "<android.content.res.Configuration: void fixUpLocaleList()>",
+    "<android.content.res.Configuration: android.os.LocaleList getLocales()>",
+    "<android.text.method.AllCapsTransformationMethod: void <init>(android.content.Context)>",
+    "<android.widget.Switch: void setSwitchTextAppearance(android.content.Context,int)>"
+  ],
+  "Signaler": "<android.os.LocaleList: void <init>(java.util.Locale[])>",
+  "rq3": [],
+  "rq3_explain": "Locale"
+}

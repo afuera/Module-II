@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.bluetooth.BluetoothPan: java.util.List getDevicesMatchingConnectionStates(int[])>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.NullPointerException",
+  "Stack Trace": [
+    "<com.android.internal.util.FastPrintWriter: void <init>(java.io.Writer,boolean,int)>",
+    "<android.util.Log: java.lang.String getStackTraceString(java.lang.Throwable)>",
+    "<android.bluetooth.BluetoothPan: java.util.List getDevicesMatchingConnectionStates(int[])>"
+  ],
+  "Signaler": "<com.android.internal.util.FastPrintWriter: void <init>(java.io.Writer,boolean,int)>",
+  "rq0": "false",
+  "rq0_explain": "there's problem resolving constructor and super constructor invokation, on line 196 of Log, the signaler is never invoked",
+  "rq3": []
+}

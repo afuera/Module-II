@@ -1,0 +1,15 @@
+{
+  "UE-API": "<android.transition.TransitionManager: void transitionTo(android.transition.Scene)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.util.ConcurrentModificationException",
+  "Stack Trace": [
+    "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
+    "<android.transition.Transition: void captureValues(android.view.ViewGroup,boolean)>",
+    "<android.transition.TransitionManager: void sceneChangeSetup(android.view.ViewGroup,android.transition.Transition)>",
+    "<android.transition.TransitionManager: void changeScene(android.transition.Scene,android.transition.Transition)>",
+    "<android.transition.TransitionManager: void transitionTo(android.transition.Scene)>"
+  ],
+  "Signaler": "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
+  "rq3": [],
+  "rq3_explain": "CONCURRENT_MODIFICATION_EXCEPTIONS && osize != mSize"
+}

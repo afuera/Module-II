@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.location.Geofence: android.location.Geofence createCircle(double,double,float)>",
+  "Afuera_asserted_parameters": ["1"],
+  "Unchecked Exception": "java.lang.IllegalArgumentException",
+  "Stack Trace": [
+    "<android.location.Geofence: void checkLatLong(double,double)>",
+    "<android.location.Geofence: void <init>(double,double,float)>",
+    "<android.location.Geofence: android.location.Geofence createCircle(double,double,float)>"
+  ],
+  "Signaler": "<android.location.Geofence: void checkLatLong(double,double)>",
+  "rq3": ["1"],
+  "rq3_explain": "Two throw clauses, each check latitude or longtitude range",
+}

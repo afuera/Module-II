@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.renderscript.Mesh$TriangleMeshBuilder: android.renderscript.Mesh create(boolean)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.renderscript.RSRuntimeException",
+  "Stack Trace": [
+    "<android.renderscript.BaseObj: long getID(android.renderscript.RenderScript)>",
+    "<android.renderscript.Element$Builder: android.renderscript.Element create()>",
+    "<android.renderscript.Mesh$TriangleMeshBuilder: android.renderscript.Mesh create(boolean)>"
+  ],
+  "Signaler": "<android.renderscript.BaseObj: long getID(android.renderscript.RenderScript)>",
+  "rq3": [],
+  "rq3_explain": "mID == 0"
+}

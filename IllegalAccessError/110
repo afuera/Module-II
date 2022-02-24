@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.printservice.PrintJob: android.print.PrintJobInfo getInfo()>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalAccessError",
+  "Stack Trace": [
+    "<android.printservice.PrintService: void throwIfNotCalledOnMainThread()>",
+    "<android.printservice.PrintJob: android.print.PrintJobInfo getInfo()>"
+  ],
+  "Signaler": "<android.printservice.PrintService: void throwIfNotCalledOnMainThread()>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": []
+}

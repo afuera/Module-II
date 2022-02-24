@@ -1,0 +1,16 @@
+{
+  "UE-API": "<android.graphics.drawable.DrawableContainer$DrawableContainerState: int getConstantWidth()>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.ArrayIndexOutOfBoundsException",
+  "Stack Trace": [
+    "<android.util.SparseArray: int keyAt(int)>",
+    "<android.graphics.drawable.DrawableContainer$DrawableContainerState: void createAllFutures()>",
+    "<android.graphics.drawable.DrawableContainer$DrawableContainerState: void computeConstantSize()>",
+    "<android.graphics.drawable.DrawableContainer$DrawableContainerState: int getConstantWidth()>"
+  ],
+  "Signaler": "<android.util.SparseArray: int keyAt(int)>",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "no parameter",
+  "rq1.5": "true"
+}

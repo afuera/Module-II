@@ -1,0 +1,12 @@
+{
+  "UE-API": "<android.graphics.Bitmap: android.graphics.Bitmap createBitmap(int[],int,int,int,int,android.graphics.Bitmap$Config)>",
+  "Afuera_asserted_parameters": ["4"],
+  "Unchecked Exception": "java.lang.IllegalArgumentException",
+  "Stack Trace": [
+    "<android.graphics.ColorSpace: long getNativeInstance()>",
+    "<android.graphics.Bitmap: android.graphics.Bitmap createBitmap(android.util.DisplayMetrics,int[],int,int,int,int,android.graphics.Bitmap$Config)>",
+    "<android.graphics.Bitmap: android.graphics.Bitmap createBitmap(int[],int,int,int,int,android.graphics.Bitmap$Config)>"
+  ],
+  "Signaler": "<android.graphics.Bitmap: android.graphics.Bitmap createBitmap(android.util.DisplayMetrics,int[],int,int,int,int,android.graphics.Bitmap$Config)>",
+  "rq3": ["4"]
+}

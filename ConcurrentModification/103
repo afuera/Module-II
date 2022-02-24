@@ -1,0 +1,15 @@
+{
+  "UE-API": "<android.widget.TextView: boolean onTextContextMenuItem(int)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.util.ConcurrentModificationException",
+  "Stack Trace": [
+    "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
+    "<android.os.BaseBundle: void putString(java.lang.String,java.lang.String)>",
+    "<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String)>",
+    "<android.widget.TextView: void shareSelectedText()>",
+    "<android.widget.TextView: boolean onTextContextMenuItem(int)>"
+  ],
+  "Signaler": "<android.util.ArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)>",
+  "rq3": [],
+  "rq3_explain": "CONCURRENT_MODIFICATION_EXCEPTIONS && osize != mSize"
+}

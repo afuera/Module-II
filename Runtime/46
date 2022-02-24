@@ -1,0 +1,11 @@
+{
+  "UE-API": "<android.app.PendingIntent: java.lang.String getCreatorPackage()>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.RuntimeException",
+  "Stack Trace": [
+    "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
+    "<android.app.PendingIntent: java.lang.String getCreatorPackage()>"
+  ],
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
+  "rq3": []
+}

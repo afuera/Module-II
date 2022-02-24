@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.view.inputmethod.BaseInputConnection: java.lang.CharSequence getTextAfterCursor(int,int)>",
+  "Afuera_asserted_parameters": ["0"],
+  "Unchecked Exception": "java.lang.StringIndexOutOfBoundsException",
+  "Stack Trace": [
+    "<android.view.inputmethod.BaseInputConnection: java.lang.CharSequence getTextAfterCursor(int,int)>"
+  ],
+  "Signaler": "<android.view.inputmethod.BaseInputConnection: java.lang.CharSequence getTextAfterCursor(int,int)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": ["0"],
+  "rq3_explain": "related to int length"
+}

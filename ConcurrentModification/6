@@ -1,0 +1,16 @@
+{
+  "UE-API": "<android.os.Bundle: android.os.IBinder getBinder(java.lang.String)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.util.ConcurrentModificationException",
+  "Stack Trace": [
+    "<android.util.ArrayMap: int binarySearchHashes(int[],int,int)>",
+    "<android.util.ArrayMap: int indexOfNull()>",
+    "<android.util.ArrayMap: int indexOfKey(java.lang.Object)>",
+    "<android.util.ArrayMap: java.lang.Object get(java.lang.Object)>",
+    "<android.os.Bundle: android.os.IBinder getBinder(java.lang.String)>"
+  ],
+  "Signaler": "<android.util.ArrayMap: int binarySearchHashes(int[],int,int)>",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "ConcurrentModificationException is related to field CONCURRENT_MODIFICATION_EXCEPTIONS"
+}

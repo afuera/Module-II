@@ -1,0 +1,11 @@
+{
+  "UE-API": "<android.app.NativeActivity: void onCreate(android.os.Bundle)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.UnsatisfiedLinkError",
+  "Stack Trace": ["<android.app.NativeActivity: void onCreate(android.os.Bundle)>"],
+  "Signaler": "<android.app.NativeActivity: void onCreate(android.os.Bundle)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "mNativeHandle == 0"
+}

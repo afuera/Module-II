@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.location.LocationManager: void requestLocationUpdates(long,float,android.location.Criteria,android.location.LocationListener,android.os.Looper)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalArgumentException",
+  "Stack Trace": [
+    "<android.location.LocationManager: void checkCriteria(android.location.Criteria)>",
+    "<android.location.LocationManager: void requestLocationUpdates(long,float,android.location.Criteria,android.location.LocationListener,android.os.Looper)>"
+  ],
+  "Signaler": "<android.location.LocationManager: void checkCriteria(android.location.Criteria)>",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "related to LocationManager.criteria"
+}

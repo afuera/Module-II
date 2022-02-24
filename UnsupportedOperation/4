@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.app.ResourcesManager: void <init>()>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.UnsupportedOperationException",
+  "Stack Trace": [
+    "<android.util.ArrayMap: void allocArrays(int)>",
+    "<android.util.ArrayMap: void <init>(int,boolean)>",
+    "<android.util.ArrayMap: void <init>()>",
+    "<android.app.ResourcesManager: void <init>()>"
+  ],
+  "Signaler": "<android.util.ArrayMap: void allocArrays(int)>",
+  "rq0": "false",
+  "rq3": []
+}

@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.graphics.Interpolator: android.graphics.Interpolator$Result timeToValues(float[])>",
+  "Afuera_asserted_parameters": ["0"],
+  "Unchecked Exception": "java.lang.ArrayStoreException",
+  "Stack Trace": [
+    "<android.graphics.Interpolator: android.graphics.Interpolator$Result timeToValues(int,float[])>",
+    "<android.graphics.Interpolator: android.graphics.Interpolator$Result timeToValues(float[])>"
+  ],
+  "Signaler": "<android.graphics.Interpolator: android.graphics.Interpolator$Result timeToValues(int,float[])>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": ["0"]
+}

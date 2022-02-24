@@ -1,0 +1,12 @@
+{
+  "UE-API": "<android.location.LocationManager: java.util.List getProviders(android.location.Criteria,boolean)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.RuntimeException",
+  "Stack Trace": [
+    "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
+    "<android.location.LocationManager: java.util.List getProviders(android.location.Criteria,boolean)>"
+  ],
+  "Signaler": "<android.os.RemoteException: java.lang.RuntimeException rethrowFromSystemServer()>",
+  "rq3": ["0"],
+  "rq3_explain": "mService.getProviders(criteria, enabledOnly)"
+}

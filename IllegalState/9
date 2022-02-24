@@ -1,0 +1,10 @@
+{
+  "UE-API": "<android.view.ViewTreeObserver: void addOnDrawListener(android.view.ViewTreeObserver$OnDrawListener)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalStateException",
+  "Stack Trace": ["<android.view.ViewTreeObserver: void addOnDrawListener(android.view.ViewTreeObserver$OnDrawListener)>"],
+  "Signaler": "<android.view.ViewTreeObserver: void addOnDrawListener(android.view.ViewTreeObserver$OnDrawListener)>",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "Be relevant to ViewTreeObserver.mInDispatchOnDraw"
+}

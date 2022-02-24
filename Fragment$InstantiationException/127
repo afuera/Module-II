@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.app.Fragment: android.app.Fragment instantiate(android.content.Context,java.lang.String)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.app.Fragment$InstantiationException",
+  "Stack Trace": [
+    "<android.app.Fragment: android.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle)>",
+    "<android.app.Fragment: android.app.Fragment instantiate(android.content.Context,java.lang.String)>"
+  ],
+  "Signaler": "<android.app.Fragment: android.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "InvocationTargetException e"
+}

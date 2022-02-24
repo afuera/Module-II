@@ -1,0 +1,11 @@
+{
+  "UE-API": "<android.view.LayoutInflater: android.view.LayoutInflater 'from'(android.content.Context)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.AssertionError",
+  "Stack Trace": ["<android.view.LayoutInflater: android.view.LayoutInflater 'from'(android.content.Context)>"],
+  "Signaler": "<android.view.LayoutInflater: android.view.LayoutInflater 'from'(android.content.Context)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "getSystemService is null"
+}

@@ -1,0 +1,16 @@
+{
+  "UE-API": "<android.widget.RemoteViews: void <init>(android.os.Parcel)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.widget.RemoteViews$ActionException",
+  "Stack Trace": [
+    "<android.widget.RemoteViews: android.widget.RemoteViews$Action getActionFromParcel(android.os.Parcel,int)>",
+    "<android.widget.RemoteViews: void readActionsFromParcel(android.os.Parcel,int)>",
+    "<android.widget.RemoteViews: void <init>(android.os.Parcel,android.widget.RemoteViews$BitmapCache,android.content.pm.ApplicationInfo,int,java.util.Map)>",
+    "<android.widget.RemoteViews: void <init>(android.os.Parcel)>"
+  ],
+  "Signaler": "<android.widget.RemoteViews: android.widget.RemoteViews$Action getActionFromParcel(android.os.Parcel,int)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": ["0"],
+  "rq3_explain": "tag = parcel.readInt"
+}

@@ -1,0 +1,14 @@
+{
+  "UE-API": "<android.animation.ObjectAnimator: android.animation.ObjectAnimator ofInt(java.lang.Object,android.util.Property,android.util.Property,android.graphics.Path)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.util.AndroidRuntimeException",
+  "Stack Trace": [
+    "<android.animation.ValueAnimator: void cancel()>",
+    "<android.animation.ObjectAnimator: void setTarget(java.lang.Object)>",
+    "<android.animation.ObjectAnimator: android.animation.ObjectAnimator ofPropertyValuesHolder(java.lang.Object,android.animation.PropertyValuesHolder[])>",
+    "<android.animation.ObjectAnimator: android.animation.ObjectAnimator ofInt(java.lang.Object,android.util.Property,android.util.Property,android.graphics.Path)>"
+  ],
+  "Signaler": "<android.animation.ValueAnimator: void cancel()>",
+  "rq3": [],
+  "rq3_explain": "Looper.myLooper() == null"
+}

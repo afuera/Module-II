@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.widget.ActivityChooserView: void <init>(android.content.Context,android.util.AttributeSet,int)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalStateException",
+  "Stack Trace": [
+    "<android.view.View: void <init>(android.content.Context,android.util.AttributeSet,int,int)>",
+    "<android.view.ViewGroup: void <init>(android.content.Context,android.util.AttributeSet,int,int)>",
+    "<android.widget.ActivityChooserView: void <init>(android.content.Context,android.util.AttributeSet,int,int)>",
+    "<android.widget.ActivityChooserView: void <init>(android.content.Context,android.util.AttributeSet,int)>"
+  ],
+  "Signaler": "<android.view.View: void <init>(android.content.Context,android.util.AttributeSet,int,int)>",
+  "rq3": []
+}

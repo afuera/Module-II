@@ -1,0 +1,12 @@
+{
+  "UE-API": "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.os.OperationCanceledException",
+  "Stack Trace": [
+    "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel,java.lang.String,int)>",
+    "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel)>"
+  ],
+  "Signaler": "<android.database.DatabaseUtils: void readExceptionFromParcel(android.os.Parcel,java.lang.String,int)>",
+  "rq3": ["0"],
+  "rq3_explain": "int code = reply.readExceptionCode()"
+}

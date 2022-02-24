@@ -1,0 +1,15 @@
+{
+  "UE-API": "<android.os.CountDownTimer: void <init>(long,long)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.RuntimeException",
+  "Stack Trace": [
+    "<android.os.Handler: void <init>(android.os.Handler$Callback,boolean)>",
+    "<android.os.Handler: void <init>()>",
+    "<android.os.CountDownTimer$1: void <init>(android.os.CountDownTimer)>",
+    "<android.os.CountDownTimer: void <init>(long,long)>"
+  ],
+  "Signaler": "<android.os.Handler: void <init>(android.os.Handler$Callback,boolean)>",
+  "rq3": [],
+  "rq3_explain": "Handler.mLooper",
+  "rq0": "false"
+}

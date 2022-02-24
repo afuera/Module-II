@@ -1,0 +1,11 @@
+{
+  "UE-API": "<android.database.MatrixCursor$RowBuilder: android.database.MatrixCursor$RowBuilder add(java.lang.Object)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "android.database.CursorIndexOutOfBoundsException",
+  "Stack Trace": ["<android.database.MatrixCursor$RowBuilder: android.database.MatrixCursor$RowBuilder add(java.lang.Object)>"],
+  "Signaler": "<android.database.MatrixCursor$RowBuilder: android.database.MatrixCursor$RowBuilder add(java.lang.Object)>",
+  "rq1.5": "false",
+  "rq0": "true",
+  "rq3": [],
+  "rq3_explain": "index == endIndex"
+}

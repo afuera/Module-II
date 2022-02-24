@@ -1,0 +1,13 @@
+{
+  "UE-API": "<android.view.ViewGroup: void addView(android.view.View)>",
+  "Afuera_asserted_parameters": [],
+  "Unchecked Exception": "java.lang.IllegalStateException",
+  "Stack Trace": [
+    "<android.view.ViewGroup: void addViewInner(android.view.View,int,android.view.ViewGroup$LayoutParams,boolean)>",
+    "<android.view.ViewGroup: void addView(android.view.View,int,android.view.ViewGroup$LayoutParams)>",
+    "<android.view.ViewGroup: void addView(android.view.View,int)>",
+    "<android.view.ViewGroup: void addView(android.view.View)>"
+  ],
+  "Signaler": "<android.view.ViewGroup: void addViewInner(android.view.View,int,android.view.ViewGroup$LayoutParams,boolean)>",
+  "rq3": []
+}
